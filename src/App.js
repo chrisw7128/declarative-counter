@@ -11,6 +11,7 @@ function App() {
       <header className="App-header">
         <h1>{counter}</h1>
       </header>
+      <p></p>
     </div>
   );
 }
